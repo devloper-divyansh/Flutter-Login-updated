@@ -1,0 +1,21 @@
+{"logTime": "0629/081756", "correlationVector":"mVdvNPxKyb1pQ5eDzc1v5Z.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "0629/081756", "correlationVector":"kkMeODdY5X1hjGsAkpy0SR.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000V"}}
+{"logTime": "0629/081756", "correlationVector":"kkMeODdY5X1hjGsAkpy0SR","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=kkMeODdY5X1hjGsAkpy0SR}
+{"logTime": "0629/081756", "correlationVector":"kkMeODdY5X1hjGsAkpy0SR.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=kkMeODdY5X1hjGsAkpy0SR.0;server=GENERAL0100000V;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0629/081805", "correlationVector":"jY1y24ACXCUdGoDVZw7sxv","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "migrationStage":"", "server":""}}
+{"logTime": "0629/081805", "correlationVector":"3UkcplTXGx0D/0uoiV0hUg","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=3UkcplTXGx0D/0uoiV0hUg}
+{"logTime": "0629/081805", "correlationVector":"3UkcplTXGx0D/0uoiV0hUg.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"general0100000M"}}
+{"logTime": "0629/081805", "correlationVector":"3UkcplTXGx0D/0uoiV0hUg.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=3UkcplTXGx0D/0uoiV0hUg.0;server=general0100000M;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0629/081805", "correlationVector":"2Is8wYNw9H5zArr+Z1Jke1","action":"Normal GetUpdate request", "result":"", "context":cV=2Is8wYNw9H5zArr+Z1Jke1
+Nudged types: Device Info, User Consents
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "0629/081805", "correlationVector":"2Is8wYNw9H5zArr+Z1Jke1.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000000"}}
+{"logTime": "0629/081805", "correlationVector":"2Is8wYNw9H5zArr+Z1Jke1.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=2Is8wYNw9H5zArr+Z1Jke1.0;server=GENERAL01000000;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0629/081805", "correlationVector":"U9/06GH56w+/S6WjwOR8qD","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Device Info}
+{"logTime": "0629/081806", "correlationVector":"U9/06GH56w+/S6WjwOR8qD.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"general01000012"}}
+{"logTime": "0629/081806", "correlationVector":"U9/06GH56w+/S6WjwOR8qD.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=U9/06GH56w+/S6WjwOR8qD.0;server=general01000012;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0629/081806", "correlationVector":"uJYu6kmXkEF8z9J2/dqi4q","action":"Commit Request", "result":"", "context":Item count: 2
+Contributing types: User Consents}
+{"logTime": "0629/081807", "correlationVector":"uJYu6kmXkEF8z9J2/dqi4q.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000O"}}
+{"logTime": "0629/081807", "correlationVector":"uJYu6kmXkEF8z9J2/dqi4q.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=uJYu6kmXkEF8z9J2/dqi4q.0;server=GENERAL0100000O;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
